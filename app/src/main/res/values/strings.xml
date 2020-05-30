@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EEOI Generator</string>
+    <string name="action_settings">About app and User Manual</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">EEOI is one of the parameters to evaluate the voyage efficiency expressed in the form of CO2 emitted per unit of transport work.
+        This application is based on the EEOI guidelines by IMO (International Maritime Organization).
+        This application DOES NOT 100% accurate, detailed calculation must be done for better result.
+        This application aims to achieve the reduction of greenhouse gas emissions from ships in operation, particularly container ships.</string>
+    <string name="manual">
+        1. Acquire the data from the database (AIS database, Ship Registers, Fleet Company).\n
+        2. Fill the variables based on the data.\n
+        3. Click generate, and then it generates the EEOI values.</string>
+</resources>

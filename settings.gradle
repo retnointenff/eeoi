@@ -1,0 +1,2 @@
+rootProject.name='eeoi_new'
+include ':app'
